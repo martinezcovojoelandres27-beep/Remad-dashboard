@@ -1,13 +1,13 @@
-# 🚢 REMAD Dashboard
+# REMAD Dashboard
 **Análisis de Siniestros Marítimos Colombia — DIMAR**
 
-## 📋 Descripción
+##  Descripción
 Dashboard interactivo de análisis de 160 siniestros marítimos 
-registrados por DIMAR/COLMAR. Desarrollado con Python, pandas, 
+registrados por DIMAR/COLMAR en el año 2023. Desarrollado con Python, pandas, 
 Plotly y Gradio. Diseñado para identificar factores de riesgo, 
 patrones de accidentabilidad e impacto humano en el Caribe colombiano.
 
-## 📊 KPIs del Dashboard
+##  KPIs del Dashboard
 - Total siniestros analizados
 - Fallecidos y desaparecidos confirmados
 - Tasa de mortalidad
@@ -15,7 +15,7 @@ patrones de accidentabilidad e impacto humano en el Caribe colombiano.
 - Tripulaciones sin certificación
 - Zonas sin cobertura SAR/VHF
 
-## 📈 Visualizaciones
+## Visualizaciones
 - Causas principales de siniestros
 - Tipos de embarcación más afectadas
 - Clasificación de riesgo naval
@@ -23,11 +23,11 @@ patrones de accidentabilidad e impacto humano en el Caribe colombiano.
 - Mapa de calor punto ciego x formalidad
 - Riesgo de sobrecarga por embarcación
 
-## 🛠️ Tecnologías
+##  Tecnologías
 - Python 3 · Pandas · Plotly · Gradio
 
 ## 📁 Fuente de datos
-Base COLMAR — DIMAR, Colombia
+Base — DIMAR 2023
 
 ## 👤 Autor
 Joel Andres Martinez Covo  
